@@ -82,7 +82,7 @@ class ProductManager {
 }
 
 let listaProducto = new ProductManager();
-
+/*
 listaProducto.addProduct(
     "producto prueba",
     "Este es un producto de prueba",
@@ -91,7 +91,7 @@ listaProducto.addProduct(
     "abc123",
     25
 );
-/*
+
 listaProducto.addProduct(
     "producto prueba 2",
     "Este es un producto de prueba",
@@ -101,7 +101,7 @@ listaProducto.addProduct(
     25
 );
 */
-
+/*
 let product = {
     title: "producto reemplazado",
     description: "Este es un producto reemplazado",
@@ -115,3 +115,27 @@ listaProducto.updateProduct(1, product);
 console.log(listaProducto.getProducts());
 
 listaProducto.codeFunc()
+*/
+async function test (){
+
+    await listaProducto.addProduct(
+    "producto prueba",
+    "Este es un producto de prueba",
+    200,
+    "sin imagen",
+    "abc123",
+    25);
+    
+    console.log("ADD listo")
+    
+    await listaProducto.codeFunc()
+    
+    console.log("GET listo")
+    /*
+    await listaProducto.updateProduct(1, product);
+    
+    console.log("UPDATE listo")
+    */
+    }
+
+test()
