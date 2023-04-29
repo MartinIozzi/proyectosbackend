@@ -1,9 +1,10 @@
-const fs = require('fs');
+import fs from 'fs'
+//const fs = require('fs');
 
 class ProductManager {
 
     constructor() {
-        this.path = ('./info.json');
+        this.path = ('../info.json');
         this.id = 0;
         this.product = []   //Creé este array y lo pushee a la constante, creada abajo, readID. 
         //hacer un getproducts al inicio para no estar a cada rato creando una variable.
@@ -171,3 +172,5 @@ async function test (){
     }
 
 test()
+
+export default ProductManager;
