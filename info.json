@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Mouse",
+    "description": "Mouse con sensor optico, 3200 dpi",
+    "price": 100,
+    "thumbnail": "sin imagen",
+    "code": "M10",
+    "stock": 20,
+    "type": "pc",
+    "id": 1
+  },
+  {
+    "title": "Disco duro",
+    "description": "Disco duro kingston 1TB",
+    "price": 400,
+    "thumbnail": "sin imagen",
+    "code": "disc123",
+    "stock": 25,
+    "type": "pc",
+    "id": "2"
+  },
+  {
+    "title": "Monitor",
+    "description": "Monitor LED con 75Hz de 24 \" ",
+    "price": 500,
+    "thumbnail": "sin imagen",
+    "code": "mon123",
+    "stock": 25,
+    "type": "pc",
+    "id": "3"
+  },
+  {
+    "title": "Teclado",
+    "description": "Teclado mecanico HyperX",
+    "price": 300,
+    "thumbnail": "sin imagen",
+    "code": "keyb150",
+    "stock": 25,
+    "type": "pc",
+    "id": "4"
+  },
+  {
+    "title": "Auriculares",
+    "description": "Auriculares inalambricos HyperX con supresión de sonido",
+    "price": 200,
+    "thumbnail": "sin imagen",
+    "code": "auris150",
+    "stock": 25,
+    "type": "pc",
+    "id": "5"
+  },
+  {
+    "title": "MousePad",
+    "description": "MousePad negro con luces LED 80 x 25",
+    "price": 60,
+    "thumbnail": "sin imagen",
+    "code": "MP10",
+    "stock": 25,
+    "type": "pc",
+    "id": "6"
+  },
+  {
+    "title": "Memoria Ram",
+    "description": "Memoria Ram 16gb ddr4",
+    "price": 60,
+    "thumbnail": "sin imagen",
+    "code": "RaM150",
+    "stock": 25,
+    "type": "pc",
+    "id": "7"
+  },
+  {
+    "title": "Procesador",
+    "description": "Procesador AMD Ryzen 5600x",
+    "price": 750,
+    "thumbnail": "sin imagen",
+    "code": "MP10",
+    "stock": 25,
+    "type": "pc",
+    "id": "8"
+  },
+  {
+    "title": "Lapiz Tactil",
+    "description": "Lapiz tactil para celulares IPhone",
+    "price": 50,
+    "thumbnail": "sin imagen",
+    "code": "LP15",
+    "stock": 25,
+    "type": "phone",
+    "id": "9"
+  },
+  {
+    "title": "AirPods",
+    "description": "Auriculares inalambricos con cancelación de ruido",
+    "price": 250,
+    "thumbnail": "sin imagen",
+    "code": "AP512",
+    "stock": 25,
+    "type": "phone",
+    "id": "10"
+  },
+  {
+    "title": "Cargador IPhone",
+    "description": "Cargador IPhone carga rapida 20W",
+    "price": 210,
+    "thumbnail": "sin imagen",
+    "code": "CIP23",
+    "stock": 25,
+    "type": "phone",
+    "id": "11"
+  },
+  {
+    "title": "Funda IPhone",
+    "description": "Funda IPhone color rojo",
+    "price": 50,
+    "thumbnail": "sin imagen",
+    "code": "FD29",
+    "stock": 25,
+    "type": "phone",
+    "id": "12"
+  }
+]
